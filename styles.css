@@ -1,1 +1,25 @@
-/* Write your CSS here! */
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#Header {
+    text-align: center;
+}
+
+.JiuJitsu {
+    background-color: #E2E1FA;
+    
+}
+
+.Climbing {
+    background-color: #E2E1FA;
+    
+}
+
+.Birds {
+    background-color: #E2E1FA;
+    
+}
