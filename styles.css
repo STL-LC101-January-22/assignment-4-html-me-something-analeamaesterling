@@ -4,7 +4,17 @@ body {
     margin-right: 8px;
     margin-left: 8px;
     margin-bottom; 8px;
-    
+    background-color: #E2E1FA;
+}
+
+.funParagraph {
+    color: green;
+    font-size: 20px;
+    background-color: #E2E1FA;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
 }
 
 img {
@@ -14,21 +24,60 @@ img {
     width: 50%;
 }
 
-#Header {
+#mainHeading {
+    color: red;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+}
+
+#JiuJitsuHeader {
     text-align: center;
 }
 
+#ClimbingHeader {
+    text-align: center;
+}
+
+#BirdsHeader {
+    text-align: center;
+}
+
+#JiuJitsuParagraph{
+    color: #800000;
+    font-size: 20px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+}
+
+#ClimbingParagraph {
+    color: #800000;
+    font-size: 20px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px; 
+}
+
+#BirdsParagraph {
+    color: #800000;
+    font-size: 20px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+}
+
 .JiuJitsu {
-    background-color: #E2E1FA;
-    
 }
 
 .Climbing {
-    background-color: #E2E1FA;
-    
 }
 
-.Birds {
-    background-color: #E2E1FA;
-    
+.Birds { 
 }
