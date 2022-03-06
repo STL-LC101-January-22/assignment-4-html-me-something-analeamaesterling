@@ -61,6 +61,15 @@ img {
     padding-bottom: 30px; 
 }
 
+#SecondClimbingParagraph {
+    color: #800000;
+    font-size: 20px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;    
+}
+
 #BirdsParagraph {
     color: #800000;
     font-size: 20px;
