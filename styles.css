@@ -79,11 +79,11 @@ img {
     padding-bottom: 30px;
 }
 
-.JiuJitsu {
-}
-
-.Climbing {
-}
-
-.Birds { 
+#Footer {
+    color: #800000;
+    font-size: 20px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
 }
